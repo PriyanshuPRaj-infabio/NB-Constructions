@@ -1,0 +1,12 @@
+{
+  "cleanUrls": true,
+  "rewrites": [
+    { "source": "/", "destination": "/nbconstructions.com/index.html" },
+    { "source": "/our-story", "destination": "/nbconstructions.com/index.html" },
+    { "source": "/services", "destination": "/nbconstructions.com/index.html" },
+    { "source": "/project", "destination": "/nbconstructions.com/index.html" },
+    { "source": "/gallery", "destination": "/nbconstructions.com/index.html" },
+    { "source": "/team", "destination": "/nbconstructions.com/index.html" },
+    { "source": "/contact-us", "destination": "/nbconstructions.com/index.html" }
+  ]
+}

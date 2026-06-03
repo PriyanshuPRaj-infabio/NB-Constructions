@@ -1,0 +1,34 @@
+# Ignore editor and system files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon\r
+desktop.ini
+
+# Node and package managers
+node_modules/
+pnpm-lock.yaml
+yarn.lock
+package-lock.json
+
+# VS Code
+.vscode/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.swp
+*.swo
+
+# OS files
+*.lnk
+
+# Vercel local cache
+.vercel/
