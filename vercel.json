@@ -1,5 +1,4 @@
 {
-  "cleanUrls": true,
   "rewrites": [
     { "source": "/", "destination": "/nbconstructions.com/index.html" },
     { "source": "/our-story", "destination": "/nbconstructions.com/index.html" },
